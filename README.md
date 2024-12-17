@@ -62,5 +62,7 @@ Key features such as chest pain type (cp), maximum heart rate achieved (thalach)
 Technologies Used:
 
 Python: Used for data preprocessing, feature engineering, and model development.
+
 Scikit-learn: For machine learning algorithms and model evaluation.
+
 Matplotlib/Seaborn: For data visualization and feature importance analysis.
