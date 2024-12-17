@@ -17,18 +17,31 @@ Dataset:
 The dataset used in this project contains 302 rows and 14 columns, including patients' medical and demographic features. These features are:
 
 age: Age of the patient (in years)
+
 sex: Sex of the patient (1 = male, 0 = female)
+
 cp: Chest pain type (0-3)
+
 trestbps: Resting blood pressure (in mm Hg)
+
 chol: Serum cholesterol (in mg/dl)
+
 fbs: Fasting blood sugar (>120 mg/dl or not, 1 = yes, 0 = no)
+
 restecg: Resting electrocardiographic results
+
 thalach: Maximum heart rate achieved
+
 exang: Exercise-induced angina (1 = yes, 0 = no)
+
 oldpeak: ST depression induced by exercise relative to rest
+
 slope: Slope of the peak exercise ST segment (0 = upsloping, 1 = flat, 2 = downsloping)
+
 ca: Number of major vessels colored by fluoroscopy
+
 thal: Thalassemia (3 = normal, 6 = fixed defect, 7 = reversible defect)
+
 target: Heart attack risk (1 = risk, 0 = no risk)
 
 
