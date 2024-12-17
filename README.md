@@ -1,9 +1,11 @@
 # Prediction-of-Heart-Attack
 
 Project Description
+
 Heart disease is one of the leading causes of death worldwide. Early prediction of heart attack risk can significantly improve patient outcomes by enabling timely medical intervention and lifestyle changes. This project leverages machine learning to predict the likelihood of heart disease in patients based on medical and demographic data. The models developed aim to provide accurate predictions that can assist healthcare professionals in assessing patient risk and making informed decisions.
 
 Objective
+
 The primary objective of this project is to develop a machine-learning model that predicts the risk of heart disease using patient data. The key goals are:
 
 To analyze the importance of various medical and demographic factors in predicting heart disease risk.
